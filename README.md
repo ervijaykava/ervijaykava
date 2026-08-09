@@ -28,25 +28,15 @@ Turning data into insights, predictive models and practical analytical solutions
 
 <div align="center">
 
-<img src="https://github.com/ervijaykava.png?size=300"
-     width="130"
-     alt="Vijay Kava">
-
-</div>
-
 <p align="center">
 
 <b>AI & Data Science professional</b> focused on transforming data into
 <b>actionable insights, predictive models and analytical solutions.</b>
 
-<br><br>
-
 Currently pursuing an <b>M.Tech in Artificial Intelligence & Data Science</b>
 after completing a <b>B.Tech in Information Technology.</b>
 
-<br><br>
-
-My primary focus:
+<p>My primary focus:
 <b>Data Analytics • Machine Learning • SQL • Predictive Modeling • Data Visualization</b>
 
 </p>
@@ -172,9 +162,9 @@ A browser-based Tic-Tac-Toe game powered by optimal decision making.
 
 <div align="center">
 
-### 📄 PICET Conference Paper
+### 📄 PICET International Conference Paper
 
-**[YOUR EXACT PICET PAPER TITLE]**
+**Enhancing Transparency in Clinical Decision Support Systems through Explainable Artificial Intelligence**
 
 `PICET` • `Conference Paper`
 
@@ -182,36 +172,13 @@ A browser-based Tic-Tac-Toe game powered by optimal decision making.
 <img src="https://img.shields.io/badge/VIEW%20PAPER-071A3D?style=for-the-badge&logoColor=60A5FA">
 </a>
 
-<br><br>
 
-### 📑 Submitted Research Paper
-
-**[YOUR EXACT SUBMITTED PAPER TITLE]**
-
-`Status: Submitted`
-
-<a href="SUBMITTED_PAPER_LINK">
-<img src="https://img.shields.io/badge/VIEW%20DETAILS-312E81?style=for-the-badge&logoColor=C4B5FD">
-</a>
 
 </div>
 
 ---
 
-# 📊 LANGUAGE DISTRIBUTION
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/PYTHON-071A3D?style=for-the-badge&logo=python&logoColor=60A5FA">
-<img src="https://img.shields.io/badge/SQL-0C4A6E?style=for-the-badge&logo=mysql&logoColor=67E8F9">
-
-</div>
-
-<p align="center">
-Primary development focus: <b>Python & SQL</b>
-</p>
-
----
 
 # 📜 TRAINING
 
@@ -232,6 +199,7 @@ Primary development focus: <b>Python & SQL</b>
 
 ### M.Tech — Artificial Intelligence & Data Science
 **Parul University · Vadodara**
+`CGPA — 8.05 / 10`
 
 <br>
 
@@ -244,6 +212,7 @@ Primary development focus: <b>Python & SQL</b>
 
 ### Diploma — Computer Engineering
 **Government Polytechnic · Jamnagar**
+`CGPA — 6.85 / 10`
 
 </div>
 
