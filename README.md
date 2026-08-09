@@ -168,11 +168,9 @@ A browser-based Tic-Tac-Toe game powered by optimal decision making.
 
 `PICET` • `Conference Paper`
 
-<a href="[PAPER_LINK](https://github.com/ervijaykava/ervijaykava/blob/main/PICET_Conference_Paper.pdf)">
-<img src="https://img.shields.io/badge/VIEW%20PAPER-071A3D?style=for-the-badge&logoColor=60A5FA">
+<a href="./PICET_Conference_Paper.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20PAPER-071A3D?style=for-the-badge&logo=readthedocs&logoColor=60A5FA">
 </a>
-
-
 
 </div>
 
