@@ -122,7 +122,7 @@ RideIQ is a data-driven platform focused on:
 
 <br><br>
 
-<a href="https://github.com/ervijaykava/dynamic-pricing-platform">
+<a href="[https://github.com/ervijaykava/dynamic-pricing-platform](https://github.com/ervijaykava/ervijaykava/blob/main/PICET_Conference_Paper.pdf)">
 <img src="https://img.shields.io/badge/VIEW%20RIDEIQ-0B2A4A?style=for-the-badge&logo=github&logoColor=60A5FA">
 </a>
 
