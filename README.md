@@ -154,7 +154,7 @@ A browser-based Tic-Tac-Toe game powered by optimal decision making.
 
 </div>
 
-> **Note:** The link above will work after you create the repository `unbeatable-tic-tac-toe` and enable GitHub Pages.
+
 
 ---
 
