@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ VIJAY KAVA
+#  VIJAY KAVA
 
 ### AI & Data Science • Data Analytics • Machine Learning
 
